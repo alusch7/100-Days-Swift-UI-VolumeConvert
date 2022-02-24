@@ -77,7 +77,7 @@ struct ContentView: View {
                 } header: {
                     Text("Converted Value")
                 }
-            } .navigationTitle("Volume Converter")
+            } .navigationTitle("Volume Convert")
         }
     }
 }
